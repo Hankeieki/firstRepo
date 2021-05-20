@@ -5,5 +5,14 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 
+<<<<<<< HEAD
 
 asufdjfafjdjajlfdalasjlsdajlddlfksdl
+=======
+asdhfasdjfajfldajfldkafjlkasfdljksdsajlk
+
+asdjfajdf
+asdfadfasdf
+asdfasdfsdf
+qweqweqewqeqw
+>>>>>>> dev

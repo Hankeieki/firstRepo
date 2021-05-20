@@ -15,4 +15,11 @@ asdjfajdf
 asdfadfasdf
 asdfasdfsdf
 qweqweqewqeqw
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+
+
+ajdskfasdfjadfadfakjlsdfljkflkflkalksfajlkdfjlkfjalkdfkadslasldflslfaldsf
+ajsdfadfadlfalkdsjlkfadlfakldslfalksefwifupsjajifeapefipfjafsdfjewifjifj
 >>>>>>> dev

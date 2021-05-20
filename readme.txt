@@ -16,10 +16,4 @@ asdfadfasdf
 asdfasdfsdf
 qweqweqewqeqw
 <<<<<<< HEAD
->>>>>>> dev
-=======
-
-
-ajdskfasdfjadfadfakjlsdfljkflkflkalksfajlkdfjlkfjalkdfkadslasldflslfaldsf
-ajsdfadfadlfalkdsjlkfadlfakldslfalksefwifupsjajifeapefipfjafsdfjewifjifj
->>>>>>> dev
+Creating a new branch is quick and simple.
